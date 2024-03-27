@@ -126,7 +126,7 @@ blocks:
     alias: ''
     append: 'False'
     comment: ''
-    file: /home/joan/Desktop/gnu_radio_rfid_ask/tag_signal.txt
+    file: tag_signal.txt
     type: complex
     unbuffered: 'False'
     vlen: '1'
