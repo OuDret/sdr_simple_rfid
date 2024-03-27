@@ -130,7 +130,7 @@ blocks:
     alias: ''
     begin_tag: pmt.PMT_NIL
     comment: ''
-    file: /home/joan/Desktop/gnu_radio_rfid_ask/tag_signal.txt
+    file: tag_signal.txt
     length: '0'
     maxoutbuf: '0'
     minoutbuf: '0'
